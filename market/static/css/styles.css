@@ -1,0 +1,36 @@
+body {
+    background-color: #212121;
+    color: white;
+}
+
+form {
+    color: white;
+}
+
+img {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    object-fit: cover;
+    padding: 10px;
+    display: block;
+    margin: 0 auto;
+}
+
+a.coin {
+  color: #7CFC00 !important;
+  font-weight: bold;
+}
+
+p.italic {
+  font-style: italic;
+}
+
+.row {
+    margin-top: 20px;
+    margin-left: 20px;
+}
+
+.modal-content {
+    background-color: #212121
+}
