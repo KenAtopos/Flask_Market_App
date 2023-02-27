@@ -35,7 +35,7 @@ This is a web application built with Flask for buying and selling items in a mar
 1. Clone the repository:
 
 ```
-$ git clone https://github.com/username/market-app.git
+$ git clone https://github.com/KenAtopos/Flask_Market_App.git
 $ cd market-app
 ```
 2. Install dependencies:
