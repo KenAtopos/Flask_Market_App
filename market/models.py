@@ -85,3 +85,9 @@ with app.app_context():
 # new_item.owner = User.query.filter_by(username="Ken").first().id
 # db.session.add(new_item)
 # db.session.commit()
+
+
+new_item = Item(name="Macbook", barcode="628181819819", price=2199, description="nice laptop")
+db.session.add(new_item)
+# db.session.commit()
+
