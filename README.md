@@ -3,23 +3,21 @@ This is a web application built with Flask for buying and selling items in a mar
 
 # Features
 
-- home: welcome and home page
-![home](./market/static/img/home.png)
+- Home page: welcome and home page
+    
+    ![home](./market/static/img/register.gif)
 
 - Register: users can register an account
-![register](./market/static/img/register.png)
-
-- Login: users can log in to their account
-![login](./market/static/img/login.png)
+    
+    ![register](./market/static/img/check_registration.gif)
 
 - Market: user can see the available items on the market page (unauthenticated users won't be able to access the market page)
-![market](./market/static/img/market.png)
+    
+    ![market](./market/static/img/info_buy_sell.gif)
 
-- Buy: registered users can purchase items that are posted for sale
-![purchase](./market/static/img/purchase.png)
-
-- Sell: registered users can post items for sale
-![sell](./market/static/img/sell.png)
+- Logout: Once user logged out, market page cannot be access
+    
+    ![logout](./market/static/img/logout.gif)
 
 # Technologies Used
 - Python
