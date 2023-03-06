@@ -87,7 +87,7 @@ with app.app_context():
 # db.session.commit()
 
 
-new_item = Item(name="Macbook", barcode="628181819819", price=2199, description="nice laptop")
+new_item = Item(name="Gaming Keyboard", barcode="1011121314", price=129.99, description="Mechanical keyboard with customizable RGB lighting")
 db.session.add(new_item)
 # db.session.commit()
 
