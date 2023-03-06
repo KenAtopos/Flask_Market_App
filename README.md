@@ -5,7 +5,7 @@ This is a web application built with Flask for buying and selling items in a mar
 
 - Home page: welcome and home page
     
-    ![home](./market/static/img/register.gif)
+    ![home](./market/static/img/home.gif)
 
 - Register: users can register an account
     
