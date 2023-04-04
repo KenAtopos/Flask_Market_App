@@ -78,3 +78,7 @@ td {
   height: fit-content;
   background-color: #ece8dd;
 }
+
+.card {
+  margin: auto;
+}
